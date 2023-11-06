@@ -193,6 +193,9 @@ ll ncr(ll n , ll r){
     num %= M ;
     return num ;
 }
+void print1 (){
+cout<<"-1"<<endl; 
+}
 
 //------------------------------------------------------------------------------------------//
 // common mistakes that I do while using sets ;
